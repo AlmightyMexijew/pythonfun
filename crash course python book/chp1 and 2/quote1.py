@@ -1,0 +1,1 @@
+print('Hillel said "If I am not for me, then who? And if not now, when?"')
